@@ -1,0 +1,19 @@
+body {
+	background-color: rgb(255, 0, 179);
+}
+
+.flushed {
+	width: 32px;
+	height: 32px;
+}
+
+.trole {
+	width: 100px;
+	height: 100px;
+}
+
+.poop {
+	color: yellow;
+	font-size: 50px;
+	font-family: "Comic Sans MS", "Comic Sans";
+}
