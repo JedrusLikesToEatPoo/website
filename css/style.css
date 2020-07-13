@@ -7,7 +7,25 @@ body {
 	height: 32px;
 }
 
-.trole {
+.trole0 {
+	width: 100px;
+	height: 100px;
+}
+
+.trole1 {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 4000%;
+	top: 50%;
+}
+
+.trole2 {
+	width: 100px;
+	height: 100px;
+}
+
+.trole3 {
 	width: 100px;
 	height: 100px;
 }
@@ -16,4 +34,22 @@ body {
 	color: yellow;
 	font-size: 50px;
 	font-family: "Comic Sans MS", "Comic Sans";
+}
+
+.touch {
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	left: 35%;
+	top: 3%;
+}
+
+.nigga {
+	width: 300px;
+	height: 300px;
+}
+
+.come {
+	width: 300px;
+	height: 300px;
 }
