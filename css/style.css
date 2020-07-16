@@ -12,24 +12,9 @@ body {
 .trole0 {
 	width: 100px;
 	height: 100px;
-}
-
-.trole1 {
-	width: 100px;
-	height: 100px;
 	position: absolute;
-	left: 4000%;
-	top: 50%;
-}
-
-.trole2 {
-	width: 100px;
-	height: 100px;
-}
-
-.trole3 {
-	width: 100px;
-	height: 100px;
+	left: 0px;
+	top: 300px;
 }
 
 .poop {
@@ -54,6 +39,9 @@ body {
 .come {
 	width: 300px;
 	height: 300px;
+	position: absolute;
+	top: 100px;
+	left:400px;
 }
 
 .gaming {
@@ -73,5 +61,65 @@ body {
 	height: 300px;
 	position: absolute;
 	left: 600px;
-	top: 700px;
+	top: 400px;
+}
+
+.swim {
+	width: 250;
+	height: 150;
+	position: absolute;
+	left: 1000px;
+	top: 375px;
+}
+
+.youtube {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 1px;
+	right: 1px;
+}
+
+.twitter {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 1px;
+	right: 100px;
+}
+
+.twitch {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 1px;
+	right: 200px;
+}
+
+.spider {
+	position: absolute;
+	top: 25px;
+	left: 600px;
+}
+
+.rich {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+
+.floss {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	bottom: 400px;
+	left: 1300px;
+}
+
+.haha {
+	width: 200px;
+	height: 50px;
+	position: absolute;
+	top: 50px;
+	left: 300px;
 }
