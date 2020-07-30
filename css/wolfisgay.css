@@ -1,0 +1,53 @@
+body {
+	background-color: rgb(255, 0, 179);
+	background-image: url("https://i.redd.it/4ntnw24kole21.jpg");
+	background-repeat: repeat;
+}
+
+.corndog0 {
+	width: 300px;
+	height: 100px;
+	position: absolute;
+	left: 400px;
+	top: 300px;
+}
+
+.corndog1 {
+	width: 400px;
+	height: 800px;
+	position: absolute;
+	left: 0px;
+	top: 100px;
+}
+
+.corndog2 {
+	width: 1200px;
+	height: 200px;
+	position: absolute;
+	left: 400px;
+	top: 0px;
+}
+
+.corndog3 {
+	width: 400px;
+	height: 1500px;
+	position: absolute;
+	left: 700px;
+	top: 200px;
+}
+
+.corndog4 {
+	width: 400px;
+	height: 800px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.corndog5 {
+	width: 400px;
+	height: 800px;
+	position: absolute;
+	left: 1100px;
+	top: 200px;
+}
